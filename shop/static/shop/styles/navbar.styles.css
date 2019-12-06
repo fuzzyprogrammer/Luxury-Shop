@@ -1,0 +1,38 @@
+.navbar .navbar-expand-lg .navbar-light .bg-light{
+    background-color: black;
+}
+
+nav{
+    background-color: yellow;
+}
+
+
+    /* nav a {
+        color: white;
+    }
+
+    nav ul li a {
+        color: white;
+    } */
+
+
+#navbarTogglerDemo01{
+    color: white;
+    background-color: black;
+}
+
+i {
+    color: white;
+}
+
+#navbarDropdownMenuLink {
+    color: white;
+}
+
+a.nav-link{
+    color: white;
+}
+a.navbar-link{
+    color: white;
+    margin: auto;
+}
